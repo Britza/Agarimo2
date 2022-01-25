@@ -12,10 +12,14 @@
  Text Domain:  fluidachild
 */
 
-.fuente{
-    font: 150% OpenSansCondesed;
+.entry-title{
+    font-family: Source Sans Pro;
+    color: #0085b2;
 }
-.background{
-    background-color: #268876;
+.wp-block-searchlabel{
+    color:#8224e3;
+}
+.wp-block-groupinner-container{
+    color:black;
 }
 
